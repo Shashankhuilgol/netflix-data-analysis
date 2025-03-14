@@ -20,11 +20,10 @@ This project analyzes Netflix's dataset to extract meaningful insights about con
 - **Jupyter Notebook / Google Colab** (Development)  
 
 ## 📊 Sample Visualizations
-_(Add images of your graphs here by uploading them to GitHub and linking them)_  
-Example:  
+ 
 ![Netflix Content by Year](https://github.com/Shashankhuilgol/netflix-data-analysis/blob/main/images/netflix_trends.png)
 
 ## 🛠️ Installation & Usage
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/YOUR-USERNAME/netflix-data-analysis.git
+git clone https://github.com/Shashankhuilgol/netflix-data-analysis.git
