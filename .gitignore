@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+
+# Logs & system files
+*.log
+.DS_Store
+Thumbs.db
